@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho como Analista de testes automatizados
 - 🌱 Cursando Pós-Graduação Engenharia de software com ênfase em qualidade e teste de software
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Me desafiando no desenvolvimento de APIs com Java Spring
+- ⚡ Fun fact: Como uma boa "Dora aventureira na vida" adoro me aventurar no mundo infinito da programação
 
 ##
 
